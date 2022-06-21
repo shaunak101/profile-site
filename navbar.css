@@ -10,6 +10,7 @@
     background-color: crimson;
     list-style-type: none;
     justify-content: space-evenly;
+    position: sticky;
 }
 
 .navBar > li{

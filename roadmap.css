@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+p{
+    text-align: center;
+}
+
+ol{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+ol > li{
+    margin:10px;
+}
+
+a{
+    text-decoration: inherit;
+}
